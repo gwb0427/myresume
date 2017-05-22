@@ -8,7 +8,7 @@
 ---
 ## 个人信息
 
-- 科/哈尔滨学院/软件工程专业
+- 本科/哈尔滨学院/软件工程专业
 - 工作年限：1年
 - 在线简历：[https://gwb0427.github.io/myresume/](https://gwb0427.github.io/myresume/)
 - 期望职位：Java后台开发工程师
