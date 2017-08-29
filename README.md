@@ -8,20 +8,15 @@
 ---
 ## 个人信息
 
-- 本科/哈尔滨学院/软件工程专业
+- 统招本科/哈尔滨学院/软件工程专业
 - 工作年限：1年
 - 在线简历：[https://gwb0427.github.io/myresume/](https://gwb0427.github.io/myresume/)
 - 期望职位：Java后台开发工程师
-- 期望薪资：6k~8k
+- 期望薪资：7k~9k
 - 期望城市：北京
 
 ---
 ## 技能清单
-- 英语：
-	- CET-4,能顺利阅读英文文档
-- 前端：
-	- 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + Bootstrap）进行web开发。
-	- 能写常用的js代码，熟悉Ajax，熟悉常用的前端插件（jQuery Form/jQuery validate/ECharts）。
 - 后端：
 	- 熟练掌握Java语言基础知识，对集合，I/O，反射,多线程有一定了解，理解面向对象设计原思想。
 	- 熟悉常用数据结构，了解常用的设计模式。
@@ -32,6 +27,9 @@
 	- 熟悉微信公众平台开发流程，掌握OAuth2.0认证和授权原理，了解微信JSSDK。
 	- 熟悉HTTP交互过程，了解TCP/IP协议，了解Socket的基本概念和使用。
 	- 熟悉lniux系统常用命令。
+- 前端：
+	- 熟练使用前端技术（HTML/JSP/FreeMarker + CSS + Bootstrap）进行web开发。
+	- 能写常用的js代码，熟悉Ajax，熟悉常用的前端插件（jQuery Form/jQuery validate/ECharts）。
 - 数据库：
 	- 熟练运用MySQL数据库，编写常用的SQL语句，能够编写存储过程，触发器等操作。
 	- 了解MySQL索引优化原理，有SQL优化经验。了解Redis缓存数据库。
@@ -43,6 +41,8 @@
 	- 禅道
 - IDE:
 	- Eclipse/MyEclipse/IntelliJ IDEA
+- 英语：
+	- CET-4,能顺利阅读英文文档
 	
 ---
 ## 工作经历
