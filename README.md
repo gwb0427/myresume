@@ -3,14 +3,12 @@
 - 关文博/女/1994
 - 手机：15764506298
 - Email：guanwb0427@qq.com
-- 微信号：Breathless100
 
 ---
 ## 个人信息
 
 - 统招本科/哈尔滨学院/软件工程专业
 - 工作年限：3年
-- 在线简历：[https://gwb0427.github.io/myresume/](https://gwb0427.github.io/myresume/)
 - 期望职位：软件测试工程师
 - 期望薪资：9k~10k
 - 期望城市：北京
